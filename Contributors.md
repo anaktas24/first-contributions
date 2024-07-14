@@ -13,10 +13,10 @@
 -[Sumit Sagar](https://github.com/mostpalon3)**Just continue coding and fall in love with it.(btw I am a Web Developer)**
 -JohnK
 -ali
--[Ioannis Antoniou](https://github.com/anaktas24) @@Starting contribution to open source@@
 -Syed Suleman
 -Prateek ** Hello coders! **
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
+😊-[Ioannis Antoniou](https://github.com/anaktas24) **Starting contribution to open source**😊
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 - [Jay Prajapati](https://github.com/jayprajapati19) **Jay Prajapati**
 -[Mike Keough](https://github.com/keyohhh)**13/7/2024 First Contrib!**
